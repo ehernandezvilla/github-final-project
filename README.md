@@ -16,7 +16,7 @@ This calculator computes simple interest given the principal amount, the annual 
 
 The output will be the simple interest calculated using the formula:
 
- -  `simple interest` = p*t*r
+ -  `simple interest` = `p*t*r`
 
 ## Where:
 - `simple interest` is the interest amount earned or paid over the specified time period.
